@@ -1,5 +1,6 @@
 
 SUBDIRS = singleton
+SUBDIRS += builder
 
 all: $(SUBDIRS)
 

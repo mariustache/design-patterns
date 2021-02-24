@@ -11,4 +11,5 @@ install: $(TARGET)
 
 clean:
 	rm -rf $(BINDIR)
+	rm -rf $(TARGET)
 	rm -rf *.o
