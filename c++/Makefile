@@ -1,6 +1,7 @@
 
 SUBDIRS = singleton
 SUBDIRS += builder
+SUBDIRS += visitor
 
 all: $(SUBDIRS)
 
